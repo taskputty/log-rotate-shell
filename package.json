@@ -1,0 +1,25 @@
+{
+  "name": "log-rotate-shell",
+  "version": "0.0.0",
+  "description": "log-rotate wrapper for crons n spawns",
+  "main": "index.js",
+  "keywords": [
+    "log",
+    "rotate",
+    "shell",
+    "cron"
+  ],
+  "author": "Drew Stokes",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fluffybunnies/log-rotate-shell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fluffybunnies/log-rotate-shell/issues"
+  },
+	"dependencies": {
+		"log-rotate": "*",
+		"minimist": "0.2.0"
+	}
+}
