@@ -22,4 +22,5 @@
 		"log-rotate": "*",
 		"minimist": "0.2.0"
 	}
+{ "bin" : { "log-rotate" : "./index.js" } }
 }
